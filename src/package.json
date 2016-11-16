@@ -1,0 +1,13 @@
+{
+  "name": "sample-nodejsrest",
+  "version": "1.0.0",
+  "description": "Sample NodeJS REST service packaged in a docker container",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "author": "Erik Lustgarten"
+}
